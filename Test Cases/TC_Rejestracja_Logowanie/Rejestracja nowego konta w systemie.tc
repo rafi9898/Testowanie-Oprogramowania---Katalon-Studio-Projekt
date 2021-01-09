@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Rejestracja nowego konta w systemie</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7dd46d01-7e93-4ed4-b9c2-5c893d18e4bb</testCaseGuid>
+</TestCaseEntity>

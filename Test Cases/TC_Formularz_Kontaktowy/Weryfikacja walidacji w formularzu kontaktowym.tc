@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Weryfikacja walidacji w formularzu kontaktowym</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cbc1116e-6909-4a37-b10b-11739c29b43a</testCaseGuid>
+   <variable>
+      <defaultValue>'https://alerabat.com/kontakt'</defaultValue>
+      <description></description>
+      <id>e35a47e3-c91d-48c1-8254-20377ce652fb</id>
+      <masked>false</masked>
+      <name>urlContact</name>
+   </variable>
+   <variable>
+      <defaultValue>'To pole jest wymagane'</defaultValue>
+      <description></description>
+      <id>6b0c9afd-2808-4523-bbde-1d1a0e3f5cbc</id>
+      <masked>false</masked>
+      <name>val1</name>
+   </variable>
+   <variable>
+      <defaultValue>'Jan Kowalski'</defaultValue>
+      <description></description>
+      <id>021f2fc5-8f9c-41e6-8557-17b062b16c0a</id>
+      <masked>false</masked>
+      <name>Name</name>
+   </variable>
+   <variable>
+      <defaultValue>'test'</defaultValue>
+      <description></description>
+      <id>c1231768-9732-47c6-8309-b15254da40b8</id>
+      <masked>false</masked>
+      <name>incorrectEmail</name>
+   </variable>
+   <variable>
+      <defaultValue>'Niepoprawny adres email'</defaultValue>
+      <description></description>
+      <id>ed74d5df-96d9-439d-b959-6ef18983817b</id>
+      <masked>false</masked>
+      <name>val2</name>
+   </variable>
+   <variable>
+      <defaultValue>'test@test.pl'</defaultValue>
+      <description></description>
+      <id>7a25a568-696b-4c3a-a5ca-11cf49a46bab</id>
+      <masked>false</masked>
+      <name>Email</name>
+   </variable>
+</TestCaseEntity>
