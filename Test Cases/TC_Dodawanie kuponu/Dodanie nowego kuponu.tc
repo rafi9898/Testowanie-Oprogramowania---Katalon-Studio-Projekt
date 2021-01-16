@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Dodanie nowego kuponu</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fcf865c2-3ac8-4566-95e1-8910adf2b773</testCaseGuid>
+   <variable>
+      <defaultValue>'adidas'</defaultValue>
+      <description></description>
+      <id>e6a827f5-8099-402f-8a52-cd041211a9a8</id>
+      <masked>false</masked>
+      <name>shopName</name>
+   </variable>
+   <variable>
+      <defaultValue>'Promocja'</defaultValue>
+      <description></description>
+      <id>5458ce98-f6e2-4808-92db-391f4aaf8380</id>
+      <masked>false</masked>
+      <name>promotionValue</name>
+   </variable>
+   <variable>
+      <defaultValue>'ABCDEF'</defaultValue>
+      <description></description>
+      <id>e59c4992-9b58-4571-b650-4f2fe92e23f0</id>
+      <masked>false</masked>
+      <name>voucherCode</name>
+   </variable>
+   <variable>
+      <defaultValue>'https://addidas.pl'</defaultValue>
+      <description></description>
+      <id>979936ca-86ca-4759-b3f3-63dd73ebfa2a</id>
+      <masked>false</masked>
+      <name>voucherUrl</name>
+   </variable>
+   <variable>
+      <defaultValue>'Testowy kod rabatowy - Najlepszy'</defaultValue>
+      <description></description>
+      <id>bd01e8a5-f359-42c3-9c80-386ddc44aa85</id>
+      <masked>false</masked>
+      <name>voucherTitle</name>
+   </variable>
+   <variable>
+      <defaultValue>'testowy opis raz dwa trzy cztery piec szesc siedem no i osiem'</defaultValue>
+      <description></description>
+      <id>fcf07c33-d072-4f59-80d0-f97d7cba0974</id>
+      <masked>false</masked>
+      <name>voucherDesc</name>
+   </variable>
+   <variable>
+      <defaultValue>'Twój kupon został wysłany do weryfikacji. Pojawi się najszybciej jak to możliwe.'</defaultValue>
+      <description></description>
+      <id>b958ce06-9b90-4c98-872a-8a62cd71f1e6</id>
+      <masked>false</masked>
+      <name>successMessage</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Darmowa dostawa_user_create_vouchercodecode</name>
+   <tag></tag>
+   <elementGuidId>1406c01e-f535-41c3-a2b5-74a4479f7b49</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@name='user_create_voucher[code][code]']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input[name=&quot;user_create_voucher[code][code]&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>m-form__input</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>user_create_voucher[code][code]</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Kod rabatowy</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/main[@class=&quot;m-container m-container--main&quot;]/section[@class=&quot;m-panel m-panel--bg--light-gray m-panel--center-header m-panel--demi-weight m-panel--add-coupon m-panel--monster-headline--on-tablet-desktop-up m-panel--double-padding--on-tablet-desktop-up&quot;]/div[@class=&quot;m-panel__content&quot;]/form[@class=&quot;m-form m-form--default m-form--border-top m-form--add-coupon&quot;]/div[@class=&quot;m-row m-row--column--on-tablet-down&quot;]/div[@class=&quot;m-col m-col--w50--on-tablet-desktop-up&quot;]/div[@class=&quot;m-form__input-holder&quot;]/input[@class=&quot;m-form__input&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@name='user_create_voucher[code][code]']</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/input</value>
+   </webElementXpaths>
+</WebElementEntity>
